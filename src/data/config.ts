@@ -24,15 +24,17 @@ const config = {
     "Framer Motion",
   ],
   author: "Nischal Varshney",
-  email: "nischal.varshney@gmail.com",
-  site: "https://nischalvarshney.site",
+  email: "bajajnischal936@gmail.com",
+  site: "https://nischal.site",
 
   get ogImg() {
     return this.site + "/assets/seo/og-image.png";
   },
   social: {
+    twitter: "https://x.com/nothotchaddi",
     linkedin: "https://www.linkedin.com/in/nischalvarshney1211/ ",
     instagram: "https://www.instagram.com/varshney_nischal12?igsh=a3pmajZ1MXN2MmUw",
+    facebook: "https://www.facebook.com/HotChaddi/",
     github: "https://github.com/Manan987",
   },
 };
